@@ -415,7 +415,7 @@ li:hover .dropdown-content {
 
     .slider-track {
       display: flex;
-      width: calc(250px * 10); 
+      width: 100vw; 
       animation: scroll 10s linear infinite;
     }
 
